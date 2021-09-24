@@ -10,12 +10,12 @@ These tables would help the leadership team of Pewlett Hackard know how many emp
 
 The Below summarizes the amount of people retiring by title from the retiring_titles.csv
 count	title
-29414	Senior Engineer
-28254	Senior Staff
-14222	Engineer
-12243	Staff
-4502	Technique Leader
-1761	Assistant Engineer
+29,414	Senior Engineer
+28,254	Senior Staff
+14,222	Engineer
+12,243	Staff
+4,502	Technique Leader
+1,761	Assistant Engineer
 2	Manager
 
 We can see that Senior engineers are the ones that will be retiring the most in terms of # of employees, followed by Senior Staff, Engineer, etc. THis is useful because it lets us know what departments will need to hire the most and it will prepare them to be proactive about it.
@@ -24,6 +24,6 @@ Discovery 2. The company will not only have to focus on hiring engineers, but th
 Discovery 3. Senior Staff have the same dilemna as engineers, where there needs to be a focus on hiring & development/promotions with current employees
 Discovery 4. There are not enough people available for the mentorship program that the leadership is trying to create, currently as is, if everyone available for the program were able to participate, they would need to mentor 58 people each to fill the vacating spots of the soon to be retirees. 
 
-##Answer to Qs
+## Answer to Qs
 There are currently 90,398 vacating spots that could potentially retire. 
 There are only 1549 people that could serve as a mentor, so if you do the math, they would need to mentor 58 people each and that is one too many and it would not be feasable. 
