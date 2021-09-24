@@ -6,7 +6,8 @@ Retirement_titles.csv / unique_titles.csv / Retiring_titles.csv / mentorship_eli
 These tables would help the leadership team of Pewlett Hackard know how many employees were expected to retire, by title and by department. They also would be able to identify employees that could be part of the mentorship program to help the new employees ramp up. Most importantly, the analysis also included the # of employees retiring by title so that the leadership team would know which department would be affected the most. 
 
 
-##Results
+## Results
+
 The Below summarizes the amount of people retiring by title from the retiring_titles.csv
 count	title
 29414	Senior Engineer
