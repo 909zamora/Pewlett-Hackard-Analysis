@@ -1,6 +1,6 @@
 # Pewlett-Hackard-Analysis
 
-##Overview of the Analysis
+## Overview of the Analysis
 In this analysis, we used the csvs we created from the asynchronous content to create four additional tables.
 Retirement_titles.csv / unique_titles.csv / Retiring_titles.csv / mentorship_eligibility.csv
 These tables would help the leadership team of Pewlett Hackard know how many employees were expected to retire, by title and by department. They also would be able to identify employees that could be part of the mentorship program to help the new employees ramp up. Most importantly, the analysis also included the # of employees retiring by title so that the leadership team would know which department would be affected the most. 
